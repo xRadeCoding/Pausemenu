@@ -2,7 +2,7 @@
  
 Fivem simple pause menu with the emote 
 
-This script is for ESX
+This script is STANDAlONE 
 
 
 DISCORD: Sliss#8277
